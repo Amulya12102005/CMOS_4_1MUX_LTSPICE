@@ -1,0 +1,45 @@
+# CMOS 4:1 Multiplexer Design using LTspice
+
+## Project Overview
+
+This project involves the transistor-level design of a 4:1 CMOS Multiplexer using LTspice as part of my InternPe VLSI Internship.
+
+## Objectives
+
+* Design a 4:1 CMOS Multiplexer using CMOS transistors.
+* Understand PMOS and NMOS transistor operation.
+* Implement input selection using two select lines.
+* Analyze the circuit using LTspice.
+
+## Working Principle
+
+A 4:1 Multiplexer selects one of four data inputs based on two select lines.
+
+| S1 | S0 | Selected Input |
+| -- | -- | -------------- |
+| 0  | 0  | D0             |
+| 0  | 1  | D1             |
+| 1  | 0  | D2             |
+| 1  | 1  | D3             |
+
+## Tools Used
+
+* LTspice
+* CMOS Technology
+* PMOS and NMOS Transistors
+
+## Project Files
+
+* Mux_4_1.asc - LTspice circuit schematic
+* schematic.png - Circuit screenshot
+* waveforms.png - Simulation waveforms (if available)
+
+## Internship
+
+InternPe VLSI Internship - Week 3
+
+## Author
+
+Amulya Thanda
+Electronics and Communication Engineering
+Malla Reddy College of Engineering & Technology
