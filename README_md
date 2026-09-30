@@ -32,14 +32,19 @@ A 4:1 Multiplexer selects one of four data inputs based on two select lines.
 
 * Mux_4_1.asc - LTspice circuit schematic
 * schematic.png - Circuit screenshot
-* waveforms.png - Simulation waveforms (if available)
+* waveforms.png - Simulation waveforms
+
+## Project Demonstration
+
+Watch the CMOS 4:1 Multiplexer design and simulation:
+https://drive.google.com/file/d/1n4rA1iOho_CgcCKfJqVDBKzyv6qe3-Km/view?usp=sharing
 
 ## Internship
 
-InternPe VLSI Internship - Week 3
+InternPe VLSI Internship 
 
 ## Author
 
 Amulya Thanda
 Electronics and Communication Engineering
-Malla Reddy College of Engineering & Technology
+
